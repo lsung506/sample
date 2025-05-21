@@ -1,2 +1,2 @@
 # sample
-github 연결 hello world
+github 연결 hello wor
